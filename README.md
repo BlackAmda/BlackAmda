@@ -1,4 +1,4 @@
-<h2 align="center">Hello 🥰 I'm <br>Black Amda</h1>
+<h2 align="center">Hello.👁 I'm <br>Black Amda🎩🔨👮🏻‍♂️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 <h7 align="left">Moreover, I am the founder of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</h7>
 
