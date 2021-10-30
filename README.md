@@ -2935,7 +2935,7 @@
 <img src="https://github.com/BlackAmda/BlackAmda/blob/main/BlackAmda.gif" width="200">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ADF712&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);w%D1%94+%CE%B1r%D1%94+%CE%B1n%CF%83n%D1%87m%CF%83us.+w%D1%94+%CE%B1r%D1%94+l%D1%94g%C3%AD%CF%83n.;w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%C3%ADv%D1%94.+w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%D1%94t.;%D1%94%D1%85p%D1%94ct+us.)](https://git.io/typing-svg) </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);w%D1%94+%CE%B1r%D1%94+%CE%B1n%CF%83n%D1%87m%CF%83us.+w%D1%94+%CE%B1r%D1%94+l%D1%94g%C3%AD%CF%83n.;w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%C3%ADv%D1%94.+w%D1%94+d%CF%83+n%CF%83t+f%CF%83rg%D1%94t.;%D1%94%D1%85p%D1%94ct+us.)](https://git.io/typing-svg) </div>
      
 </div>
 
