@@ -2943,7 +2943,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCZx8U1EU95-Wn9mH4dn15vQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCZx8U1EU95-Wn9mH4dn15vQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/BlackAmda?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BlackAmda"/></a>
