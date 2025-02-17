@@ -19,6 +19,11 @@
 
 ---
 
+### 🌍 My Open-Source Creations
+- **Queen Amdi💃🏻❤️** - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 📜 Languages
