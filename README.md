@@ -10,6 +10,7 @@
 ### 🚀 About Me
 - 💻 **Full Stack Developer** | **Open Source Enthusiast** | **Tech Explorer**
 - 🌐 Founder of A.N.Tech Crew (2016)
+- 🧑🏻‍💼 Currently crafting digital magic at [Rapidventure Business Solutions (Pvt) Ltd](https://rbs.lk) ✨
 - ☕ Fueled by coffee and a passion for coding
 - 🌱 Always eager to learn
 - 🇱🇰 Based in the beautiful island nation of Sri Lanka
