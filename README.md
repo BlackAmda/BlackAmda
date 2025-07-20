@@ -5,7 +5,7 @@
 [![GitHub Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BlackAmda)](https://github.com/BlackAmda?tab=repositories&sort=stargazers)
 [![GitHub Followers](https://custom-icon-badges.herokuapp.com/github/followers/BlackAmda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/BlackAmda?tab=followers)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🚀 About Me
 - 💻 **Full Stack Developer** | **Open Source Enthusiast** | **Tech Explorer**
@@ -17,16 +17,19 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BlackAmda&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic)](https://github.com/BlackAmda)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🌍 My Open-Source Creations
 - **Queen Amdi💃🏻❤️** - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,cs,dotnet,python,dart,flutter,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,github,git,mysql,firebase,figma,pnpm,postman,docker)](https://skillicons.dev)
 
-#### 📜 Languages
+<!--#### 📜 Languages
+
 <p align="left">
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -61,9 +64,9 @@
   <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
   <img align="left" alt="PuTTY" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" style="padding-right:10px;" />
 </p><br />
-<br />
+<br />-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 📊 GitHub Stats
 
@@ -71,14 +74,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlackAmda&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 🤝 Want to build something amazing with me?
 
 📧 [Email Me](mailto:wmachintha@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/achintha-bandara/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <details>
   <summary>🏆 <b>GitHub Awards</b></summary>
