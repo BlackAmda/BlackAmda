@@ -74,9 +74,7 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackAmda&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlackAmda&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackamda&theme=holi-theme&short_numbers=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun&ring=4EEB88&fire=EB5454&excludeDaysLabel=FFFFFF00)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
