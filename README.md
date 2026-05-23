@@ -80,8 +80,16 @@
 
 ### 🤝 Want to build something amazing with me?
 
-📧 [Email Me](mailto:wmachintha@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/achintha-bandara/)
+<p align="center">
+  <a href="mailto:wmachintha@gmail.com">
+    <img align="left" alt="Gmail" width="38px" src="https://skillicons.dev/icons?i=gmail" style="padding-right:5px; padding-left:10px;" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/achintha-bandara/">
+    <img align="left" alt="Gmail" width="38px" src="https://skillicons.dev/icons?i=linkedin" style="padding-right:10px;" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
